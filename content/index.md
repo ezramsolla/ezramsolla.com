@@ -2,5 +2,5 @@
 title: Welcome to Quartz
 ---
 
-This is my portfolio website for me to put work on.
+This is a blank Quartz installation.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
